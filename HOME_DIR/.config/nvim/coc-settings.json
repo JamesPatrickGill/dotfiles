@@ -1,0 +1,23 @@
+{
+  "rust-analyzer.serverPath": "/Users/jamesgill/.cargo/bin/rust-analyzer",
+  "rust-analyzer.diagnostics.disabled": ["macro-error"],
+  "rust-analyzer.inlayHints.chainingHints": false,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "prisma",
+    "toml",
+    "scss",
+    "css",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "mdx",
+    "markdown.mdx",
+    "markdown",
+    "Markdown",
+    "graphql",
+    "rust",
+    "yaml"
+  ]
+}
